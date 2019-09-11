@@ -1,0 +1,6 @@
+#Logs
+logs/
+venv/
+.idea/
+.ipynb_checkpoints/
+*.log
