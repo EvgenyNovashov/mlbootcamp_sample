@@ -1,6 +1,7 @@
 #Logs
 logs/
 venv/
+data/
 .idea/
 .ipynb_checkpoints/
 *.log
